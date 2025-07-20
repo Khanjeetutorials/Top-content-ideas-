@@ -16,12 +16,26 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
- " Before Humans", " Life 4 Million Years Ago", " Human Evolution", " Prehistoric Life", 
-" Prehistoric Life", " The First Hunt Begins", " Ape to Human", " Ancient Survival", " Early Humans", 
-" Neanderthal", " Stone Age", " Cinematic Prehistoric Story", " Tool Users", 
-" Hominins / Hominid Evolution", " Survival in Prehistoric Africa", " How Our Ancestors Survived", 
-" First Hunters and Gatherers", " Daily Life of Early Humans", " Primitive Humans", 
-" Prehistoric Documentary", " Evolution of Human Behavior
+    "Life X Million Years Ago",
+    "Before Humans",
+    "Human Evolution",
+    "Prehistoric Life",
+    "The First Event",
+    "Ape to Human",
+    "Ancient Survival",
+    "Early Humans",
+    "Neanderthal",
+    "Stone Age",
+    "Cinematic Prehistoric Story",
+    "Tool Users",
+    "Hominins",
+    "Survival in Prehistoric Era",
+    "How Our Ancestors Survived",
+    "First Hunters and Gatherers",
+    "Daily Life of Early Humans",
+    "Primitive Humans",
+    "Prehistoric Documentary",
+    "Evolution of Human Behavior"
 ]
 
 # Fetch Data Button
